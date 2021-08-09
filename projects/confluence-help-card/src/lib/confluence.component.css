@@ -1,0 +1,56 @@
+#helpcard-wrapper{
+    position:absolute;
+    bottom: 0;
+    height: 85vh;
+}
+#header-wrapper{
+    display: flex;
+    flex-direction: row;
+    color:#ffffff !important;
+
+}
+
+#card-row{
+    height: 100%;
+}
+
+.card-header , .card-footer, #card-footer-text {
+    background: #555555 !important;
+    color:#ffffff !important;
+    border: solid 4px #555555;
+    border-radius: 0%;
+}
+
+#card-footer-text{
+    font-size: 0.75rem;
+}
+
+.card {
+    height: 100%;
+    border: solid 4px #555555;
+    box-shadow: 10px 10px 10px 10x #555555;
+    border-radius: 0%;
+
+}
+
+#article-wrapper{
+    width:100%;
+    height:70%;
+
+}
+
+#links-wrapper{
+    width:80%;
+    height: 30%;
+    font-size: 0.75rem;
+    overflow-y: hidden;
+
+}
+
+#k15t-iframe{
+    width:105%;
+    height:100%;
+    font-size: 0.65rem;
+    overflow-y: scroll;
+}
+

@@ -15,14 +15,20 @@
     "@angular/compiler": "~12.1.2",
     "@angular/core": "~12.1.2",
     "@angular/forms": "~12.1.2",
+    "@angular/localize": "~12.1.2",
     "@angular/platform-browser": "~12.1.2",
     "@angular/platform-browser-dynamic": "~12.1.2",
     "@angular/router": "~12.1.2",
+    "@ng-bootstrap/ng-bootstrap": "^10.0.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-icons": "^1.5.0",
+    "confluence-help-box": "file:dist/confluence-help-card/confluence-help-box-1.0.0.tgz",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "~12.1.4",
     "@angular/cli": "~12.1.2",
     "@angular/compiler-cli": "~12.1.2",
     "@types/jasmine": "~3.8.0",
@@ -33,6 +39,7 @@
     "karma-coverage": "~2.0.3",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
+    "ng-packagr": "^12.1.0",
     "typescript": "~4.3.2"
   }
 }
